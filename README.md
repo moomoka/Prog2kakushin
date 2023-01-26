@@ -16,5 +16,6 @@
 ### work3
 OpenCVの図形を描画する関数を用いてクリスマスツリーを作成した
 
+![クリスマスツリー.png](https://github.com/moomoka/Prog2kakushin/blob/main/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%83%84%E3%83%AA%E3%83%BC.png)
 
 
