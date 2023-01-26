@@ -8,3 +8,4 @@
 
 ### work1
 アイドルのCD売上枚数をグラフに示す
+(![スクリーンショット (28)](https://user-images.githubusercontent.com/120358223/214775418-dbf7f737-4c01-43b5-b394-0b4d2cb10ac2.png)
